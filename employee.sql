@@ -1,14 +1,4 @@
 --List the following details of each employee: employee number, last name, first name, sex, and salary.
-CREATE TABLE employee_info (employee_no INT,
-							employee_title_id VARCHAR(30),
-							birthday DATE,
-						   first_name VARCHAR(30) NOT NULL,
-						   last_name VARCHAR(30) NOT NULL,
-						   sex VARCHAR(30) NOT NULL,
-							hire_date DATE
-						   );
-						   
-
 
 --List first name, last name, and hire date for employees who were hired in 1986.
 
